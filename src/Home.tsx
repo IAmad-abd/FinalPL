@@ -392,24 +392,16 @@ const Home = (props: HomeProps) => {
   />
   <meta property="og:title" content="👉CLICK TO MINT👈" />
   <meta name="theme-color" content="#ffabab" />
-  <meta
-    property="og:description"
-                    content="The 𝗦𝗔𝗟𝗘 of 1,55 The Planetarians NFTs is live now!
-
-    𝐘𝐨𝐮 𝐜𝐚𝐧 𝐧𝐨𝐰 mint your NFTs on 𝗠𝗮𝗴𝗶𝗰𝗘𝗱𝗲𝗻 𝗟𝗮𝘂𝗻𝗰𝗵𝗽𝗮𝗱.
-
-    🏷️Sale Info
+  <meta property="og:description"
+                    content="
+   🏷️Sale Info
     ▶ Mint Price: 1.5 SOL
     ▶ Supply: 1,555
 
     ❗ Mint will be on 𝗠𝗮𝗴𝗶𝗰𝗘𝗱𝗲𝗻 𝗼𝗻𝗹𝘆. ALL others ARE 𝗙𝗔𝗞𝗘/𝗦𝗖𝗔𝗠!
-
     🎀 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐩𝐚𝐭𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐬𝐮𝐩𝐩𝐨𝐫𝐭❢ 🎀"
   />
-  <meta
-    property="og:image"
-    content="https://pbs.twimg.com/profile_banners/1452641012661243906/1635193685/1500x500"
-  />
+ 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="google-play-app" content="app-id=io.magiceden.android" />
   <link
