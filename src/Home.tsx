@@ -1466,6 +1466,42 @@ const Home = (props: HomeProps) => {
                         aria-describedby="tippy-tooltip-9"
                         data-original-title="Whitelist"
                         style={{ display: "inline" }}
+                           >
+                                                             <div className="tw-rounded-xl tw-border tw-border-solid tw-border-purple-1 tw-p-3 tw-flex tw-flex-col tw-gap-6 hover:tw-bg-purple-1 hover:tw-cursor-help">
+                          <div className="tw-flex tw-justify-between tw-items-center">
+                            <div>
+                              <div className="tw-flex tw-items-center">
+                                <div className="tw-bg-purple-3 tw-rounded-full tw-py-0.5 tw-px-2 tw-text-white-1 tw-text-[12px] tw-h-fit-content">
+                                 OG Whitelist
+                                </div>
+                              </div>
+                            </div>
+                            <div className="tw-flex tw-flex-row tw-gap-2 tw-text-pink-hot tw-text-sm tw-tracking-wide tw-font-medium tw-text-center tw-uppercase tw-items-center">
+                             Ended
+                              <div className="tw-flex tw-gap-2 tw-ml-auto"></div>
+                            </div>
+                          </div>
+                          <div className="tw-flex tw-gap-1.5 tw-text-white-1 tw-tracking-wide tw-text-sm">
+                            <span>
+                              WHITELIST <b>81</b>
+                            </span>
+                            <b>•</b>
+                            <span>
+                              MAX <b>2 TOKEN</b>
+                            </span>
+                            <b>•</b>
+                            <span>
+                              Price <b>1.25◎</b>
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        className=""
+                        data-tooltipped=""
+                        aria-describedby="tippy-tooltip-13"
+                        data-original-title="Public Sale"
+                        style={{ display: "inline" }}
                       >
                         <div className="tw-rounded-xl tw-border tw-border-solid tw-border-purple-1 tw-p-3 tw-flex tw-flex-col tw-gap-6 hover:tw-bg-purple-1 hover:tw-cursor-help">
                           <div className="tw-flex tw-justify-between tw-items-center">
@@ -1483,7 +1519,7 @@ const Home = (props: HomeProps) => {
                           </div>
                           <div className="tw-flex tw-gap-1.5 tw-text-white-1 tw-tracking-wide tw-text-sm">
                             <span>
-                              WHITELIST <b>1200</b>
+                              WHITELIST <b>1236</b>
                             </span>
                             <b>•</b>
                             <span>
@@ -1519,7 +1555,7 @@ const Home = (props: HomeProps) => {
                           </div>
                           <div className="tw-flex tw-gap-1.5 tw-text-white-1 tw-tracking-wide tw-text-sm">
                             <span>
-                              MAX <b>2 TOKENS</b>
+                              MAX <b>3 TOKENS</b>
                             </span>
                             <b>•</b>
                             <span>
