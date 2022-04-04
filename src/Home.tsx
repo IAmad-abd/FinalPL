@@ -390,9 +390,9 @@ const Home = (props: HomeProps) => {
     property="og:site_name"
     content="This is an automatically generated announcement message."
   />
-  <meta property="og:title" content="👉CLICK TO MINT👈" />
+  
   <meta name="theme-color" content="#ffabab" />
-  <meta property="og:description"
+                <meta property="og:description"
                     content="
    🏷️Sale Info
     ▶ Mint Price: 1.5 SOL
@@ -402,7 +402,7 @@ const Home = (props: HomeProps) => {
     🎀 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐩𝐚𝐭𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐬𝐮𝐩𝐩𝐨𝐫𝐭❢ 🎀"
   />
  
-  <meta name="twitter:card" content="summary_large_image" />
+ 
   <meta name="google-play-app" content="app-id=io.magiceden.android" />
   <link
     rel="android-touch-icon"
