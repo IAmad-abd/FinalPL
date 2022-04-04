@@ -1477,7 +1477,7 @@ const Home = (props: HomeProps) => {
                               </div>
                             </div>
                             <div className="tw-flex tw-flex-row tw-gap-2 tw-text-pink-hot tw-text-sm tw-tracking-wide tw-font-medium tw-text-center tw-uppercase tw-items-center">
-                              In progress
+                             Ended
                               <div className="tw-flex tw-gap-2 tw-ml-auto"></div>
                             </div>
                           </div>
