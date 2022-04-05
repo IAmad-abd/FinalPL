@@ -1579,13 +1579,13 @@ const Home = (props: HomeProps) => {
                         <div className="tw-flex tw-items-center tw-justify-between tw-text-[14px] tw-text-gray-5">
                           <span className="">Total minted</span>
                           <span>
-                            <b className="tw-text-white-1">91%</b> (1415/1555)
+                            <b className="tw-text-white-1">93%</b> (1446/1555)
                           </span>
                         </div>
                         <div className="progress-bar__container">
                           <div
                             className="progress-bar__value"
-                            style={{ width: "91%" }}
+                            style={{ width: "93%" }}
                           />
                         </div>
                       </div>
@@ -1666,14 +1666,14 @@ const Home = (props: HomeProps) => {
                               <div className="tw-flex tw-items-center tw-justify-between tw-text-[14px] tw-text-gray-5">
                                 <span className="">Total minted</span>
                                 <span>
-                                  <b className="tw-text-white-1">91%</b>
-                                  (1415/1555)
+                                  <b className="tw-text-white-1">93%</b>
+                                  (1446/1555)
                                 </span>
                               </div>
                               <div className="progress-bar__container">
                                 <div
                                   className="progress-bar__value"
-                                  style={{ width: "91%" }}
+                                  style={{ width: "93%" }}
                                 ></div>
                               </div>
                             </div>
